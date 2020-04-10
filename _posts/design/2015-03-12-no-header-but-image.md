@@ -1,17 +1,17 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "No Header but Article Image"
+subheadline:  ""
+title:  "Desta vez fui a Florença e Siena"
 teaser: "Nestas 2 cidades que pertencem a Tuscany, vou falar sobre arte, arquitetura, sanitas, vinhos e pizza! Tudo isto com um cheirinho a humor."
 categories:
-    - design
+    - Travel
 tags:
-    - design
-    - background color
-    - header
+    - Italy
+    - Florence
+    - Siena
 header: no
 image:
-    title: unsplash_eagle.jpg
+    title: firenze.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
@@ -23,17 +23,20 @@ Os andares das casas são altos, fazendo-me pensar que em Florença apenas vivem
 Em qualquer cidade de Portugal facilmente vemos casas abandonadas no centro das cidades, isto não acontece em Florença! As próprias câmaras municipais defendem e investem na reconstrução e conservação das casas como também na preservação da fachada antiga!
 
 Passei também pela famosa Ponte Vecchio que está totalmente recheada de mini ourivesarias e ainda não sei como é que ainda não caiu com o peso de tanto ouro e diamantes.
-    
+
 Pelo único dia (mas intensivo) que estive em Siena achei ser acolhedora com uma arquitetura medieval e cheia de natureza à sua volta! Pequenos pormenores como não ter qualquer tipo de passeio nas ruas adentro já a torna especial.
 Na época de julho e agosto existe o Palio di Siena que é uma corrida de cavalos na praça principal. Neste evento participam 17 vizinhanças que são chamados contrade (que na realidade são pequenos distritos que foram criados para na Idade média ajudar as tropas a defenderem-se) e são representados por um símbolo que na maior parte são animais. 
 Para colmatar este dia, vão se sentir em casa pelo simples facto de nesta zona de Tuscany ter vinhos mesmo muito bons! 
 
 <div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/btZEAKlDWnBcY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wine-o-clock-btZEAKlDWnBcY"></a></p>
 
+<br>
+
 # Troféu de surpresa
 > É atribuído ao local que mais superou as minhas expectativas durante a viagem.
 
 ## 🏆 Duomo de Florença à noite
+<br>
 
 ![museum]({{ site.baseurl }}/images/PSX_20190927_203909.jpg)
 
@@ -42,11 +45,14 @@ Sim, é espetacularmente ENORME! Repara bem naquelas pequenas formigas humanas n
 Foi aqui que eu percebi porque tanta gente falava que facilmente poderias ficar com a síndrome de [Firenze][stendhal] (mais conhecido por Stendhal, mas decidi não colocar este nome porque parece que estaria a falar de secar a roupa à moda "antiga") ao visitar coisas que realmente parecem de outro mundo.
 Durante o dia conseguem ver que aquilo é enorme mas quando lá passam durante a noite a emoção ao olhar para lá é completamente exorbitante.
 
+<br>
 
 # Carta na manga:
 🥭 Ao usar o autocarro, podem usar o vosso cartão de crédito desde que tenha [NFC][nfc-mean], que vai substituir a necessidade de comprar um cartão para depois ser carregado.
 
 🥭 Procura locais menos turísticos em Florença, como por exemplo visitar o Belvedere Forte onde têm uma vista completa da cidade ou ver o por do sol na Ponte S.Niccolò acompanhada de umas cervejas fresquinhas e artesanais de Itália!
+
+<br>
 
 # Resumo
 * Cmon, quem é que não gosta de uma pizza? Ainda para mais, é o local onde podes comer das melhores pizzas!
