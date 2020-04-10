@@ -115,7 +115,7 @@ defaults:
       author: phlow     # Default author for pages
   -
     scope:
-      path: '/blog'
+      path: '/travel'
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
