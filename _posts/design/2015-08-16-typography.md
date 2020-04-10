@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Desta vez fui a Florença e Siena"
-subheadline: "test"
+subheadline: "Florence and Siena"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "Nestas 2 cidades que pertencem a Tuscany, vou falar sobre arte, arquitetura, sanitas, vinhos e pizza! Tudo isto com um cheirinho a humor."
 header:
@@ -22,7 +22,7 @@ categories:
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Table of Contents**
+**Tabela de conteúdo**
 {: #toc }
 *  TOC
 {:toc}
@@ -54,7 +54,7 @@ Para colmatar este dia, vão se sentir em casa pelo simples facto de nesta zona 
 > 
 > <span class="teaser">É atribuído ao local que mais superou as minhas expectativas durante a viagem.</span>
 
-## 🏆 Duomo de Florença à noite
+### 🏆 Duomo de Florença à noite 🏆
 <br>
     
 ![museum]({{ site.baseurl }}/images/PSX_20190927_203909.jpg)
@@ -82,8 +82,9 @@ Durante o dia conseguem ver que aquilo é enorme mas quando lá passam durante a
 
 Se você gostou, bota likezão belo, volumoso e gostoso. Partilhem com os vossos avôs, netos, bisnetos e afilhados. Abreijos caros leitores.
 
+[stendhal]: https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_Stendhal
+[nfc-mean]: https://pt.wikipedia.org/wiki/Near_Field_Communication
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
-
