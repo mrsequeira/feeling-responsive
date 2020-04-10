@@ -1,11 +1,10 @@
-## LEFT  SECTION
-- title: Página inicial
+- title: Start
   url: "/"
   side: left
 
-# - title: Getting Started
-#   url: "/getting-started/"
-#   side: left
+- title: Getting Started
+  url: "/getting-started/"
+  side: left
 
 - title: "Templates"
   url: "/travel/"
@@ -65,10 +64,12 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Arquivos blog"
+  - title: "Blog Archive"
     url: "/blog/archive/"
 
-## RIGHT SECTION
+- title: "Search"
+  url: "/search/"
+  side: right
 
 - title: "Contact"
   url: "/contact/"
