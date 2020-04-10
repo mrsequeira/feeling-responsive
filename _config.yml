@@ -21,7 +21,7 @@ description: '“A world of infinite, biological pathways that connect trees and
 
 # Main author of the website
 # See > authors.yml
-author: Alexandre Sequeira
+author: mrsequeira
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -115,13 +115,13 @@ defaults:
       author: phlow     # Default author for pages
   -
     scope:
-      path: ''
+      path: '/blog'
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: phlow     # Default author for posts
+      comments: true
+      author: mrsequeira     # Default author for posts
 
 
 
