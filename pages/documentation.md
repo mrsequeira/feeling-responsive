@@ -18,6 +18,8 @@ header:
 </div><!-- /.medium-4.columns -->
 
 
+'<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
