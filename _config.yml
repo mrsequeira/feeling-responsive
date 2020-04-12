@@ -17,7 +17,7 @@ slogan: 'The state of sudden indescribable intuitive enlightenment'
 description: '“A world of infinite, biological pathways that connect trees and allow them to communicate, and allow the forest to behave as if it’s a single organism.”'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '“A world of infinite, biological pathways that connect trees and allow them to communicate, and allow the forest to behave as if it’s a single organism.”'
 
 # Main author of the website
 # See > authors.yml
