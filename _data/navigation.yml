@@ -1,54 +1,10 @@
-- title: Start
+- title: Pagina inicial
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/travel/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/travel/grid/"
-  - title: "Typography"
-    url: "/travel/typography/typography/"
-  - title: "Page/Post"
-    url: "/travel/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/travel/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/travel/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/travel/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/travel/video/"
-  - title: "Gallery"
-    url: "/travel/gallery/"
-  - title: "Portfolio"
-    url: "/travel/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+#- title: Getting Started
+  # url: "/getting-started/"
+  # side: left
 
     # ATE ERA INTERESSANTE TER O ROADMAP EXPOSTO PARA AS PESSOAS SE VOLUNTARIAREM SE QUISEREM!
 # - title: Documentation
@@ -71,6 +27,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contactos"
   url: "/contact/"
   side: right
