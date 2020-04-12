@@ -4,7 +4,7 @@ subheadline:  ""
 title:  "Desta vez fui a Florença e Siena"
 teaser: "Nestas 2 cidades que pertencem a Tuscany, vou falar sobre arte, arquitetura, sanitas, vinhos e pizza! Tudo isto com um cheirinho a humor."
 categories:
-    - Travel
+    - travel
 tags:
     - Italy
     - Florence

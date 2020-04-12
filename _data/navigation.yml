@@ -67,7 +67,7 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Pesquisar"
   url: "/search/"
   side: right
 
