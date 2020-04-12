@@ -6,7 +6,7 @@
 *
 {% endcomment %}
 
-
+{% if post.categories == travel %}
 {% for post in paginator.posts %}
   <div class="row">
     <div class="small-12 columns b60">
@@ -22,7 +22,7 @@
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
 {% endfor %}
-
+{% endif %}
 
 <nav id="pagination">
     {% if paginator.previous_page %}
